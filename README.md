@@ -1,3 +1,24 @@
+for creating an API for weather 
+
+
+step 1 create an account on openweather
+![Screenshot (302)](https://github.com/SARAVANAKANTH16/weather-app/assets/128817809/c290471d-2a85-4d8a-8321-9b9df19c31ae)
+
+
+step 2 create key
+
+![Screenshot (303)](https://github.com/SARAVANAKANTH16/weather-app/assets/128817809/9afbf272-eebd-497d-813e-e566a9dce5f7)
+
+step3 insert key in the place of YOUR_API-KEY 
+
+
+
+
+![Screenshot (304)](https://github.com/SARAVANAKANTH16/weather-app/assets/128817809/150bafa7-ba25-4857-963e-fd66196df4f9)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
